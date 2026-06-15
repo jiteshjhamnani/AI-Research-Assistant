@@ -1,0 +1,23 @@
+
+# Virtual environment
+venv/
+
+# Environment variables (API keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Streamlit local config
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
